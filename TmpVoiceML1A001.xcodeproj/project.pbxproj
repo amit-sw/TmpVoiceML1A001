@@ -13,6 +13,7 @@
 		AA124736255B11E2005C8B72 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AA124734255B11E2005C8B72 /* Main.storyboard */; };
 		AA124738255B11E3005C8B72 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AA124737255B11E3005C8B72 /* Assets.xcassets */; };
 		AA12473B255B11E3005C8B72 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AA124739255B11E3005C8B72 /* LaunchScreen.storyboard */; };
+		AA124744255B1341005C8B72 /* CatsAndDogsV001 1.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = AA124743255B1341005C8B72 /* CatsAndDogsV001 1.mlmodel */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		AA124737255B11E3005C8B72 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AA12473A255B11E3005C8B72 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AA12473C255B11E3005C8B72 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AA124743255B1341005C8B72 /* CatsAndDogsV001 1.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = "CatsAndDogsV001 1.mlmodel"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				AA12472E255B11E2005C8B72 /* AppDelegate.swift */,
 				AA124730255B11E2005C8B72 /* SceneDelegate.swift */,
+				AA124743255B1341005C8B72 /* CatsAndDogsV001 1.mlmodel */,
 				AA124732255B11E2005C8B72 /* ViewController.swift */,
 				AA124734255B11E2005C8B72 /* Main.storyboard */,
 				AA124737255B11E3005C8B72 /* Assets.xcassets */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AA124744255B1341005C8B72 /* CatsAndDogsV001 1.mlmodel in Sources */,
 				AA124733255B11E2005C8B72 /* ViewController.swift in Sources */,
 				AA12472F255B11E2005C8B72 /* AppDelegate.swift in Sources */,
 				AA124731255B11E2005C8B72 /* SceneDelegate.swift in Sources */,
